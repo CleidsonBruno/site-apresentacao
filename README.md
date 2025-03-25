@@ -6,7 +6,6 @@ Este é um site de portfólio pessoal projetado para apresentar habilidades e ex
 ## Tecnologias Utilizadas
 - HTML
 - CSS
-- JavaScript
 
 ## Recursos
 - Design simples e limpo
